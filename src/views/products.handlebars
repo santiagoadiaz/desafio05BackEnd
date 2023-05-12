@@ -1,0 +1,23 @@
+<h1 class="text-center">Products Handlebars</h1>
+
+{{#if productsFile}}
+<div class="conteiner-fluid d-flex flex-column align-items-center">
+    {{#each productsFile}}
+    <div class="card text-center" style="width: 18rem;">
+        {{#with thumbnails.[0]}}
+        <img class="card-img-top" src={{img1}} alt="Card image cap">
+        {{/with}}
+        {{#with thumbnails.[1]}}
+        <img class="card-img-bottom" src={{img2}} alt="Card image cap">
+        {{/with}}
+        <div class="card-body">
+            <h5 class="card-title">{{title}}</h5>
+            <p class="card-text">{{description}}</p>
+            <h6 class="card-text">${{price}}</h6>
+        </div>
+    </div>
+    {{/each}}
+</div>
+{{else}}
+<p>No tenemos productos</p>
+{{/if}}

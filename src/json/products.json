@@ -1,0 +1,74 @@
+[
+    {
+        "title": "Gorra Polo Ralph Lauren",
+        "description": "Dad hat, one size only",
+        "code": "010523GPRL",
+        "price": 7000,
+        "status": true,
+        "stock": 4,
+        "category": "gorras",
+        "thumbnails": [
+            {
+                "img1": "https://res.cloudinary.com/dsdicaf5h/image/upload/v1678451448/cenicero/51_fmrbf9.png"
+            },
+            {
+                "img2": "https://res.cloudinary.com/dsdicaf5h/image/upload/v1678451447/cenicero/52_itr3uv.png"
+            }
+        ],
+        "id": "byP9dkNqZn"
+    },
+    {
+        "title": "Casaca Nike",
+        "description": "SportWear 90s, Talle L",
+        "code": "100423RNS",
+        "price": 8000,
+        "status": true,
+        "stock": 2,
+        "category": "remeras",
+        "thumbnails": [
+            {
+                "img1": "https://res.cloudinary.com/dsdicaf5h/image/upload/v1678451611/cenicero/150-min_ndjauo.png"
+            },
+            {
+                "img2": "https://res.cloudinary.com/dsdicaf5h/image/upload/v1678451612/cenicero/151-min_ovk1f5.png"
+            }
+        ],
+        "id": "VPCqK8obDH"
+    },
+    {
+        "title": "Chomba Nike",
+        "description": "Golf Riviera Club, Talle L",
+        "code": "100423CNGRdV",
+        "price": 7000,
+        "status": true,
+        "stock": 4,
+        "category": "chombas",
+        "thumbnails": [
+            {
+                "img1": "https://res.cloudinary.com/dsdicaf5h/image/upload/v1678451438/cenicero/94_ea9ghh.png"
+            },
+            {
+                "img2": "https://res.cloudinary.com/dsdicaf5h/image/upload/v1678451438/cenicero/95_bodn8i.png"
+            }
+        ],
+        "id": "m52Vhgbzt1"
+    },
+    {
+        "title": "Chomba Chaps",
+        "description": "Ralph Lauren, Talle XL",
+        "code": "100423CCRL",
+        "price": 6000,
+        "status": true,
+        "stock": 2,
+        "category": "chombas",
+        "thumbnails": [
+            {
+                "img1": "https://res.cloudinary.com/dsdicaf5h/image/upload/v1678451430/cenicero/131_extbeh.png"
+            },
+            {
+                "img2": "https://res.cloudinary.com/dsdicaf5h/image/upload/v1678451429/cenicero/132_rzdfvi.png"
+            }
+        ],
+        "id": "Q4XIokXzIy"
+    }
+]
